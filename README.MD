@@ -21,7 +21,7 @@ If any error occurs it is sent to sentry.io
 - Redis
 - Bull (Redis-based queue for Node)
 - Bull Dashboard (Job inspector)
-- Sentry (third party service to track errors and monitor performance)
+- Sentry (Third party service to track errors and monitor performance)
 
 <h2>⚙ How to Run</h2>
 
